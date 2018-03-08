@@ -6,3 +6,8 @@
 - Faça um aplicativo que calcule o IMC com base na formula = IMC = Peso / Altura²
 - Faça um aplicativo que receba 4 valores de notas, mais um valor como taxa de corte, calcule a média e compare com a taxa de corte e exiba se foi aprovado ou reprovado.
 - Faça um aplicativo que receba um número inteiro, valide para saber se ele é par ou impar, imprimindo esta informação.
+## Dicas
+```
+java.util.Scanner
+Scanner scan = new Scanner(System.in);
+```
